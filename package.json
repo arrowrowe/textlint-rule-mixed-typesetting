@@ -1,0 +1,23 @@
+{
+  "name": "textlint-rule-mixed-typesetting",
+  "version": "0.0.1",
+  "description": "A Textlint's rule for mixed typesetting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arrowrowe/textlint-rule-mixed-typesetting.git"
+  },
+  "keywords": [
+    "Textlint",
+    "Mixed-typesetting"
+  ],
+  "author": "arrowrowe <arrowrowe@gmail.com> (https://github.com/arrowrowe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arrowrowe/textlint-rule-mixed-typesetting/issues"
+  },
+  "homepage": "https://github.com/arrowrowe/textlint-rule-mixed-typesetting#readme"
+}
